@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1w526tHF4OlZKIHEDNnFMQQPGtv7Exhk3
 """
 
-!pip -q install -U streamlit pandas altair matplotlib seaborn
+!pip install streamlit pandas altair matplotlib seaborn
 from google.colab import output
 import os, time, requests, subprocess, sys, textwrap, pathlib
 
